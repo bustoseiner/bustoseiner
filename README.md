@@ -1,7 +1,5 @@
 <div align="center">
 
-# Einer Bustos
-
 ### Dental Surgeon · Oral Surgery & Oral Medicine · Research Methodology
 
 **Evidence first. Structure always.**
