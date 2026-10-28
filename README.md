@@ -53,9 +53,9 @@ I care about one thing above all: **good decisions made on good evidence.** In s
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=ibm&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Zotero](https://shields.io)
-![Fedora Linux](https://shields.io)
-![Obsidian](https://shields.io)
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)
+![Fedora Linux](https://img.shields.io/badge/Fedora_Linux-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
 
 ## What you'll find here
